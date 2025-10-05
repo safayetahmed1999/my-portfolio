@@ -5,22 +5,22 @@ import { Github, Linkedin, Facebook, Mail } from "lucide-react";
 const socialLinks = [
   {
     icon: Github,
-    url: "https://github.com/hasibul217",
+    url: "https://github.com/safayetahmed1999",
     label: "GitHub",
   },
   {
     icon: Linkedin,
-    url: "https://www.linkedin.com/in/hasibulshanto201217/",
+    url: "https://www.linkedin.com/in/safayet-ahmed-/",
     label: "LinkedIn",
   },
   {
     icon: Facebook,
-    url: "https://www.facebook.com/hasibulhasan.shanto.1865",
+    url: "https://www.facebook.com/sssafayetahmed",
     label: "Facebook",
   },
   {
     icon: Mail,
-    url: "https://mail.google.com/mail/?view=cm&to=shantossnic@gmail.com",
+    url: "https://mail.google.com/mail/?view=cm&to=safayetahmed1999@gmail.com",
     label: "Email",
   },
 ];

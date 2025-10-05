@@ -72,10 +72,10 @@ export const ContactSection = () => {
                   <Mail className="h-4 w-4 sm:h-6 sm:w-6 text-primary" />
                 </div>
                 <a
-                  href="mailto:shantossnic@gmail.com"
+                  href="mailto:safayetahmed1999@gmail.com"
                   className="text-sm sm:text-base text-muted-foreground hover:text-primary transition-colors truncate"
                 >
-                  shantossnic@gmail.com
+                  safayetahmed1999@gmail.com
                 </a>
               </div>
 
@@ -85,10 +85,10 @@ export const ContactSection = () => {
                   <Phone className="h-4 w-4 sm:h-6 sm:w-6 text-primary" />
                 </div>
                 <a
-                  href="tel:+8801774403474"
+                  href="tel:+8801754046264"
                   className="text-sm sm:text-base text-muted-foreground hover:text-primary transition-colors truncate"
                 >
-                  +880 1774-403474
+                  +880 1754046264
                 </a>
               </div>
 
@@ -135,7 +135,7 @@ export const ContactSection = () => {
                   name="from_name" // IMPORTANT: matches EmailJS template variable
                   required
                   className="w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-none focus:ring-2 focus:ring-primary"
-                  placeholder="Md. Hasan..."
+                  placeholder="Safayet Ahmed..."
                 />
               </div>
 

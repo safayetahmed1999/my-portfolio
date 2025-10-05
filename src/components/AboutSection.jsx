@@ -33,11 +33,11 @@ export const AboutSection = () => {
                 B.Sc. in Computer Science & Engineering
               </p>
               <p className="text-muted-foreground text-lg">
-                United International University, Dhaka
+               University Of Information Technology and Sciences, Dhaka
               </p>
               <p className="text text-muted-foreground mt-1">
-                2020 – 2024 | CGPA:{" "}
-                <span className="font-semibold">3.08 / 4.00</span>
+                2021 – 2025 | CGPA:{" "}
+                <span className="font-semibold">3.42 / 4.00</span>
               </p>
             </div>
 

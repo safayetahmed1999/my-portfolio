@@ -12,7 +12,7 @@ export const HeroSection = () => {
         <div className="w-48 h-48 md:w-72 md:h-72 rounded-full overflow-hidden border-4 border-primary shadow-lg mx-auto md:mx-0">
           <img
             src="/safayet.jpeg"
-            alt="Hasibul Hasan"
+            alt="Safayet Ahmed"
             className="w-full h-full object-conrtain"
           />
         </div>
@@ -22,7 +22,7 @@ export const HeroSection = () => {
           <h1 className="text-3xl sm:text-4xl md:text-6xl font-bold tracking-tight leading-tight">
             <span className="block opacity-0 animate-fade-in">Hi, I'm</span>
             <span className="block text-primary opacity-0 animate-fade-in-delay-1">
-              Md.sunny
+             Safayet Ahmed
             </span>
           </h1>
           <p className="text-base sm:text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto md:mx-0 opacity-0 animate-fade-in-delay-3">

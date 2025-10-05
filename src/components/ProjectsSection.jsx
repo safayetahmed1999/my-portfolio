@@ -24,12 +24,13 @@ const projects = [
 
   {
     id: 3,
-    title: "Offers Bangla",
+    title: "Course-Assistant",
     description:
-      "An e-commerce platform with separate user and brand dashboards, authentication, offers, products, and auction features.",
+      "An e-educational platform with separate user and brand dashboards, authentication, offers, products, and more features.",
     image: "/projects/offersbangla.png",
-    tags: ["ReactJS", "TailwindCSS", "Django"],
-    demoUrl: "https://offersbangla.xyz/",
+    tags: ["php", "TailwindCSS", "c++"],
+    demoUrl: "#",
+    githubUrl: "https://github.com/safayetahmed1999/Course-Assistant.git",
   },
   
   {
@@ -39,7 +40,7 @@ const projects = [
       "A prayer tracker that dynamically shows your daily iftar, sehri, and salat times based on location.",
     image: "/projects/ramadantimes.png",
     tags: ["ReactJS", "TailwindCSS"],
-    demoUrl: "https://ramadan-pray-time.netlify.app/",
+    demoUrl: "#",
     githubUrl: "https://github.com/hasibul217/Ramadan-Times",
   },
   {
@@ -131,7 +132,7 @@ export const ProjectsSection = () => {
           <a
             className="cosmic-button w-fit flex items-center mx-auto gap-2"
             target="_blank"
-            href="https://github.com/hasibul217"
+            href="https://github.com/safayetahmed1999"
             rel="noopener noreferrer"
           >
             Check My GitHub <ArrowRight size={16} />
